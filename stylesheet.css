@@ -1,0 +1,204 @@
+* {
+    font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	padding: 0px;
+}
+
+.header-links {
+    display: inline-block;
+    text-align: center;
+}
+
+.founder-1 {
+    font-weight: 400;
+	color: #7F6A00;
+	float: left;
+}
+
+.founder-2 {
+    font-weight: 400;
+	color: #7F6A00;
+	float: right;
+}
+
+.header-links a {
+	  color: #fff;
+	  text-decoration: none;
+	  padding: 21px;
+	  padding-bottom: 16px;
+}
+
+.header-links a:hover {
+	  color: #32A800;
+	  background-color: #fff;
+}
+
+.sub-header-links a {
+	  color: #fff;
+	  text-decoration: none;
+	  padding: 21px;
+}
+
+.sub-header-links a:hover {
+	  color: #32A800;
+	  background-color: #fff;
+}
+
+.main-header { 
+	background-color: #7F6A00;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+.main-header ul {
+	  margin-left: auto;
+	  margin-right: auto;
+	
+}
+
+.main-footer {
+	margin-top: 101%;
+	background-color: #7F6A00;
+	position: absolute;
+	left: 0px;
+	width: 100%;
+}
+
+.links-social {
+	display: inline-block;
+}
+
+
+
+.social-links {
+	margin-right: auto;
+	margin-left: auto;
+	width: 159px;
+	padding: 0px;
+}
+
+
+
+.copyright {
+	margin-right: auto;
+	margin-left: auto;
+	width: 225px;;
+
+}
+
+.copyright-text {
+	color: #fff;
+}
+
+
+
+.introduction {
+	margin-top: 150px;
+	font-size: 20px;
+}
+
+#welcome {
+	font-size: 24px;
+	font-weight: 400;
+	margin-left: 10px;
+}
+
+#description {
+	font-weight: 300;
+	margin-left: 10px;
+}
+
+.coming-soon {
+	font-size: 24px;
+	margin-top: 250px;
+	margin-left: 555px;
+	
+}
+
+.header-text {
+	font-weight: 400;
+	color: #fff;
+}
+
+.founder1-text {
+	float: left;
+	display: block;
+	margin-top: 50px;
+}
+
+.no-news {
+	margin-top: 250px;
+	margin-left: 480px;
+}
+
+.no-projects {
+	margin-left: 450px;
+}
+
+
+.site-links {
+	width: 502px;
+	padding: 0px
+}
+
+.logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 579px;
+	padding-top: 10px;
+}
+
+.social-text {
+	color: #fff;
+	margin-left: -51px;
+}
+
+#facebook-text {
+	width: 151px;
+}
+
+#twitter-text {
+	width: 148px;
+}
+
+#github-text {
+	width: 145px;
+}
+
+.description {
+	margin-top: 70px;
+	font-size: 24px;
+}
+
+.social-captions {
+	display: inline;
+}
+
+.sub-header-links {
+	display: inline-block;
+	text-align: center;
+}
+
+#projects:hover ul {
+	display: block;
+}
+.projects-bar {
+	margin-top: 122px;
+	background-color: #564800;
+	width: 603px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+
+
+#projects-bar-hide {
+	display: none;
+}
+
+#projects-bar-show { 
+	display: block;
+}
