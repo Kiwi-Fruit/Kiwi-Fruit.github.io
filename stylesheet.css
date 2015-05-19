@@ -183,29 +183,23 @@
 	text-align: center;
 }
 
-#projects:hover ul {
-	display: block;
-}
 .projects-bar {
 	margin-top: 122px;
-	background-color: #564800;
+	background-color: #7F6A00;
 	width: 603px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 5px;
 }
 
-
-
-#projects-bar-hide {
-	display: none;
+.about-bar {
+	margin-top: 149px;
+	background-color: #7F6A00;
+	width: 428px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
 }
-
-#projects-bar-show { 
-	display: block;
-}
-
-
 
 #logo {
 	width: 270px;
