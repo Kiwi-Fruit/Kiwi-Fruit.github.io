@@ -22,10 +22,12 @@
 }
 
 .header-links a {
-	  color: #fff;
-	  text-decoration: none;
-	  padding: 21px;
-	  padding-bottom: 16px;
+	color: #fff;
+	text-decoration: none;
+	padding-top: 15px;
+	padding-left: 21px;
+	padding-right: 21px;
+	padding-bottom: 16px;
 }
 
 .header-links a:hover {
@@ -45,7 +47,7 @@
 }
 
 .main-header { 
-	background-color: #7F6A00;
+	background-color: #564800;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -60,7 +62,7 @@
 
 .main-footer {
 	margin-top: 101%;
-	background-color: #7F6A00;
+	background-color: #564800;
 	position: absolute;
 	left: 0px;
 	width: 100%;
@@ -146,7 +148,7 @@
 .logo {
 	margin-left: auto;
 	margin-right: auto;
-	width: 579px;
+	width: 300px;
 	padding-top: 10px;
 }
 
@@ -201,4 +203,10 @@
 
 #projects-bar-show { 
 	display: block;
+}
+
+
+
+#logo {
+	width: 270px;
 }
