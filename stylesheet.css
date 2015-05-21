@@ -235,9 +235,34 @@
 	width: 270px;
 }
 
-.title {
+.title-kiwifruit {
 	width: 130px;
 	margin-left: auto;
 	margin-right: auto;
-	text-decoration: underline;
+}
+
+.title-team {
+	width: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title-contact {
+	width: 110px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.team-member-title {
+	margin-left: 70px;
+}
+
+.description-contact {
+	font-size: 25px;
+	margin-left: 30px;
+}
+
+.description-contact-means {
+	margin-left: 70px;
+	font-size: 20px;
 }
