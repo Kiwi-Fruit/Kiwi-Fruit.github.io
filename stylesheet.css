@@ -91,7 +91,6 @@
 }
 
 .main-footer {
-	margin-top: 101%;
 	background-color: #564800;
 	position: absolute;
 	left: 0px;
@@ -184,7 +183,10 @@
 
 .social-text {
 	color: #fff;
-	margin-left: -51px;
+	width: 99px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
 }
 
 #facebook-text {
