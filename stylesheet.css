@@ -170,8 +170,8 @@
 }
 
 .no-news {
-	margin-top: 250px;
-	margin-left: 480px;
+	margin-left: 350px;
+	font-size: 25px;
 }
 
 .no-projects {
@@ -246,7 +246,7 @@
 .news-bar {
 	margin-top: 145px;
 	background-color: #7F6A00;
-	width: 201px;
+	width: 274px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 5px;
