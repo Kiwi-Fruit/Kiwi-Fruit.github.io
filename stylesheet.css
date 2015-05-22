@@ -325,3 +325,50 @@
 .post-type {
 	color: gray;
 }
+
+.intro {
+	width: 130px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+.intro-header {
+	width: 979px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.intro-desc {
+	margin: 30px;
+}
+
+.intro-team {
+	margin: 30px;
+}
+
+.intro-join {
+	margin: 30px;
+	padding: 5px;
+}
+
+.intro-team-members {
+	margin: 30px;
+	margin-left: 100px;
+	list-style: none;
+}
+
+.twitter-timeline {
+	display: inline;
+	float: right;
+}
+
+.post-intro {
+	margin-left: 40px;
+}
+
+.intro-latest {
+	font-size: 25px;
+	margin-left: 30px;
+}
