@@ -289,7 +289,7 @@
 }
 
 .news-introduction {
-	font-size: 14px;
+	font-size: 12px;
 	margin: 20px;
 }
 
@@ -298,4 +298,26 @@
 .latest-news {
 	font-size: 24px;
 	margin-left: 25px;
+}
+
+.news-content {
+	margin-left: 70px;
+}
+
+.post-title {
+	color: #564800;
+	font-weight: 400;
+	display: inline;
+}
+
+.post-info {
+	color: gray;
+	font-size: 20px;
+	margin-top: 1px;
+}
+
+.post-content {
+	font-size: 20px;
+	margin-top: 10px;
+	width: 1000px;
 }
