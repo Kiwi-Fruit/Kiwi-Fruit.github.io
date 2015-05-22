@@ -243,6 +243,15 @@
 	padding: 5px;
 }
 
+.news-bar {
+	margin-top: 145px;
+	background-color: #7F6A00;
+	width: 292px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
 #logo {
 	width: 270px;
 }
@@ -277,4 +286,16 @@
 .description-contact-means {
 	margin-left: 70px;
 	font-size: 20px;
+}
+
+.news-introduction {
+	font-size: 14px;
+	margin: 20px;
+}
+
+
+
+.latest-news {
+	font-size: 24px;
+	margin-left: 25px;
 }
