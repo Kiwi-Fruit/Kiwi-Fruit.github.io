@@ -237,7 +237,7 @@
 .about-bar {
 	margin-top: 145px;
 	background-color: #7F6A00;
-	width: 341px;
+	width: 331px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 5px;
@@ -246,7 +246,7 @@
 .news-bar {
 	margin-top: 145px;
 	background-color: #7F6A00;
-	width: 292px;
+	width: 201px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 5px;
@@ -320,4 +320,8 @@
 	font-size: 20px;
 	margin-top: 10px;
 	width: 1000px;
+}
+
+.post-type {
+	color: gray;
 }
