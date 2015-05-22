@@ -9,6 +9,16 @@
 	background-color: #7F6A00;
 }
 
+*::-selection {
+	color: #fff;
+	background-color: #7F6A00;
+}
+
+*::-webkit-selection {
+	color: #fff;
+	background-color: #7F6A00;
+}
+
 .header-links {
     display: inline-block;
     text-align: center;
