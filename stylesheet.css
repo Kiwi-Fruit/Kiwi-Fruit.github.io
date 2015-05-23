@@ -19,6 +19,16 @@
 	background-color: #7F6A00;
 }
 
+a {
+	text-decoration: none;
+	color: #7F6A00;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #32A800;
+}
+
 .header-links {
     display: inline-block;
     text-align: center;
@@ -152,9 +162,11 @@
 }
 
 .coming-soon {
-	font-size: 24px;
-	margin-top: 250px;
-	margin-left: 555px;
+	font-size: 25px;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 181px;
 	
 }
 
@@ -177,7 +189,6 @@
 .no-projects {
 	margin-left: 450px;
 }
-
 
 .site-links {
 	width: 502px;
@@ -371,4 +382,34 @@
 .intro-latest {
 	font-size: 25px;
 	margin-left: 30px;
+}
+
+.a404-suggesstions {
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 624;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+.a404-links {
+	display: inline;
+	padding: 10px;
+}
+
+.a404-text {
+	font-size: 23px;
+}
+
+.coming-soon-links {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	padding-bottom: 59px;
 }
