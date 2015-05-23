@@ -413,3 +413,19 @@ a:hover {
 	padding-top: 30px;
 	padding-bottom: 59px;
 }
+
+.a404-explanation {
+	font-size: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 851;
+	padding-top: 20px;
+}
+
+.error-404 {
+	font-size: 30px;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 129px;
+}
