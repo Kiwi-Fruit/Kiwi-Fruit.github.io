@@ -433,3 +433,25 @@ a:hover {
 	margin-right: auto;
 	width: 129px;
 }
+
+.projects {
+	margin-top: 200px;
+	font-size: 24px;
+text-align: center;
+}
+
+.services {
+	font-size: 22px;
+	margin-left: 30px;
+}
+
+.project-header {
+	font-size: 27px;
+	margin-left: 100px;
+}
+
+.project-info {
+	font-size: 20px;
+	margin-left: 300px;
+	margin-right: 10px;
+}
