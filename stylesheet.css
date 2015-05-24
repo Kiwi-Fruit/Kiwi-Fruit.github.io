@@ -146,8 +146,7 @@ a:hover {
 
 
 .introduction {
-	margin-top: 150px;
-	font-size: 20px;
+	margin-top: 175px;
 }
 
 #welcome {
@@ -349,25 +348,30 @@ a:hover {
 	width: 979px;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 20px;
 }
 
 .intro-desc {
 	margin: 30px;
+	font-size: 20px;
 }
 
 .intro-team {
 	margin: 30px;
+	font-size: 20px;
 }
 
 .intro-join {
 	margin: 30px;
 	padding: 5px;
+	font-size: 20px;;
 }
 
 .intro-team-members {
 	margin: 30px;
 	margin-left: 100px;
 	list-style: none;
+	font-size: 20px;
 }
 
 .twitter-timeline {
