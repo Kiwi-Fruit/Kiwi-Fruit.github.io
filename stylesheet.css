@@ -32,12 +32,12 @@ body {
 
 a {
 	text-decoration: none;
-	color: #7F6A00;
+	color: #000;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #32A800;
+	color: #fff;
 }
 
 .header-links {
@@ -331,13 +331,13 @@ a:hover {
 }
 
 .post-title {
-	color: #564800;
+	color: #fff;
 	font-weight: 400;
 	display: inline;
 }
 
 .post-info {
-	color: gray;
+	color: #000;
 	font-size: 20px;
 	margin-top: 1px;
 }
@@ -349,7 +349,7 @@ a:hover {
 }
 
 .post-type {
-	color: gray;
+	color: #000;
 }
 
 .intro {
