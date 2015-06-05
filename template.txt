@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html Lang=en>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>Kiwi Fruit</title>
+		<link rel="stylesheet" type="text/css" href="../stylesheet.css">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,700italic,400italic' rel='stylesheet'
+		type='text/css'>
+		<link rel="icon" type="image/png" href="../Images/Kiwi%20Fruit%20(2).png">
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			  ga('create', 'UA-63383103-1', 'auto');
+			  ga('send', 'pageview');
+		</script>
+	</head>
+	<body>
+		<header class="main-header">
+			<div class="logo">
+				<a href="../" class="logo-link">
+				<img src="../Images/Kiwi%20Fruit%20(New)%20Banner.png" id="logo">
+				</a>
+			</div>
+			<ul class="site-links">
+				<li class="header-links">
+					<a class="header-text" href="../">HOME</a>
+				</li>
+				<li class="header-links">
+					<a class="header-text" href="../About">ABOUT</a>
+				</li>
+				<li class="header-links">
+					<a class="header-text" href="../Projects">PROJECTS</a>
+				</li>
+				<li class="header-links">
+					<a class="header-text" href="../News">NEWS</a>
+				</li>
+				<li class="header-links" id="forum">
+					<a class="header-text" href="../Forum">FORUM</a>
+				</li>
+			</ul>
+		</header>
+		
+		<footer class="main-footer">
+			<div class="social-media">
+				<p class="social-text">Find us on:</p>
+				<ul class="social-links">
+					<li class="links-social">
+						<a href="https://www.facebook.com/pages/Kiwi-Fruit/1399910940313741?fref=ts" target="_blank">
+						<img src="../Images/Facebook%20Logo.png" class="social-images" alt="Facebook Link" width="50px" height="50px">
+						</a>
+					</li>
+					<li class="links-social">
+						<a href="https://twitter.com/KiwiFruitStudio" target="_blank">
+						<img src="../Images/Twitter%20Logo.jpg" alt="Twitter Link" width="50px" height="50px">
+						</a>
+					</li>
+					<li class="links-social">
+						<a href="http://github.com/Kiwi-Fruit" target="_blank">
+						<img src="../Images/Github%20Logo.png" alt="Github Link" width="50px" height="50px">
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="copyright">
+				<p class="copyright-text">COPYRIGHT &copy; 2015 KIWI FRUIT STUDIOS</p>
+			</div>
+		</footer>
+	</body>
+</html>
