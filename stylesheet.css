@@ -19,6 +19,17 @@
 	background-color: #7F6A00;
 }
 
+body {
+	background-image: -ms-radial-gradient(center, circle closest-corner, #32A800 0%, #1D6100 100%);
+	background-image: -moz-radial-gradient(center, circle closest-corner, #32A800 0%, #1D6100 100%);
+	background-image: -o-radial-gradient(center, circle closest-corner, #32A800 0%, #1D6100 100%);
+	background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #32A800), color-stop(1, #1D6100));
+	background-image: -webkit-radial-gradient(center, circle closest-corner, #32A800 0%, #1D6100 100%);
+	background-image: radial-gradient(circle closest-corner at center, #32A800 0%, #1D6100 100%);
+	
+	color: #fff;
+}
+
 a {
 	text-decoration: none;
 	color: #7F6A00;
